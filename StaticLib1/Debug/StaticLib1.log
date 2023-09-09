@@ -1,0 +1,4 @@
+﻿  StaticLib1.cpp
+D:\С++\Lab2_OOP\StaticLib1\StaticLib1.cpp(102,24): warning C4018: >=: несоответствие типов со знаком и без знака
+D:\С++\Lab2_OOP\StaticLib1\StaticLib1.cpp(102,48): warning C4018: >: несоответствие типов со знаком и без знака
+  StaticLib1.vcxproj -> D:\С++\Lab2_OOP\Lab2\Debug\StaticLib1.lib

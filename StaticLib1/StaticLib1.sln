@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StaticLib1", "StaticLib1.vcxproj", "{E686A606-0033-40D7-8343-7F620AE8CC64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E686A606-0033-40D7-8343-7F620AE8CC64}.Debug|x64.ActiveCfg = Debug|x64
+		{E686A606-0033-40D7-8343-7F620AE8CC64}.Debug|x64.Build.0 = Debug|x64
+		{E686A606-0033-40D7-8343-7F620AE8CC64}.Debug|x86.ActiveCfg = Debug|Win32
+		{E686A606-0033-40D7-8343-7F620AE8CC64}.Debug|x86.Build.0 = Debug|Win32
+		{E686A606-0033-40D7-8343-7F620AE8CC64}.Release|x64.ActiveCfg = Release|x64
+		{E686A606-0033-40D7-8343-7F620AE8CC64}.Release|x64.Build.0 = Release|x64
+		{E686A606-0033-40D7-8343-7F620AE8CC64}.Release|x86.ActiveCfg = Release|Win32
+		{E686A606-0033-40D7-8343-7F620AE8CC64}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F4F3155-398B-45C6-BF64-63D00DCE10C9}
+	EndGlobalSection
+EndGlobal
